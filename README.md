@@ -12,13 +12,13 @@ Também gosto de compartilhar conhecimento sobre desenvolvimento de software e t
 
 <p align="left">
   <a href="https://github.com/DiegolLopssg">
-    <img src="https://img.shields.io/badge/GitHub-SEU_USUARIO-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-DiegolLopssg-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/diego-campos-lopes-da-silva-a69479304/?isSelfProfile=true">
-    <img src="https://img.shields.io/badge/LinkedIn-CONECTAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Diego-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/diegolopss_/">
-    <img src="https://img.shields.io/badge/Instagram-@SEU_INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@diegolopss_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -62,8 +62,8 @@ Também gosto de compartilhar conhecimento sobre desenvolvimento de software e t
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DiegolLopssg&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegolLopssg&layout=compact&theme=tokyonight" />
 </p>
 
 ---
