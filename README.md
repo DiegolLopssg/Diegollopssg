@@ -1,6 +1,6 @@
 ### Olá 👋, eu sou o Diego
 
-🚀 **Desenvolvedor Java** | Especialista em Backend & Ecossistema Java  
+ **Desenvolvedor Java** | Especialista em Backend & Ecossistema Java  
 🇧🇷 Brasil  
 Eu construo aplicações robustas, sistemas escaláveis e APIs de alta performance.  
 Estou profundamente focado em arquitetura, performance, código limpo e soluções voltadas para negócios.  
